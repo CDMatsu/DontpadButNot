@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "557370789722",
+    "firebase_url": "https://dontpadbutnot.firebaseio.com",
+    "project_id": "dontpadbutnot",
+    "storage_bucket": "dontpadbutnot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557370789722:android:22e84de4122f1ef4",
+        "android_client_info": {
+          "package_name": "com.cesar.dontpadbutnot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557370789722-3s1nm4rkvv39msihtio3vurqcug8fghm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cesar.dontpadbutnot",
+            "certificate_hash": "78e99be4f15f03eeb6931b4bf05ec64faab98653"
+          }
+        },
+        {
+          "client_id": "557370789722-u82jikqhbrft3u0imiq363bdu28i5ei6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDal0BybchZxGgW0G3rSAnHdDZl1h9Udlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557370789722-u82jikqhbrft3u0imiq363bdu28i5ei6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

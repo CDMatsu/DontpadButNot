@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dontpad, But Not</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_tag">Type your tag here</string>
+    <string name="hint_your_tag">Your tag is</string>
+    <string name="tag_created">Tag created</string>
+</resources>
